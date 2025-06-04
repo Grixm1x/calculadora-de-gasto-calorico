@@ -1,6 +1,6 @@
 # 🧮 Calculadora de Gasto Calórico Diário
 
-Este é um projeto simples em HTML, CSS e JavaScript que calcula o **gasto calórico diário** de homens e mulheres com base em peso, altura e idade, incluindo diferentes níveis de atividade física (sedentário, moderado, ativo e extremamente ativo).
+Este é um projeto simples em PHP, HTML, CSS e JavaScript que calcula o **gasto calórico diário** de homens e mulheres com base em peso, altura e idade, incluindo diferentes níveis de atividade física (sedentário, moderado, ativo e extremamente ativo).
 
 ## 🚀 Funcionalidades
 
