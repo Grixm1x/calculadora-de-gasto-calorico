@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="hoome.css">
+<link rel="stylesheet" href="includes/hoome.css">
 <?php
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
