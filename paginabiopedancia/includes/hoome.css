@@ -22,7 +22,7 @@
     }
 
     nav {
-      background-color: green;
+      background-color: #28a745;
       padding: 10px;
       margin-bottom: 15px;
       margin-left: 0;
@@ -86,7 +86,7 @@
       background-color: #e0fce0;
     }
     textarea {
-    background-color: transparent;
+    background-color: white;
     outline: none;
     border-radius: 5px;
     border: 2px solid black;
@@ -98,6 +98,7 @@
     border-radius: 8px;
     padding: 1.2rem;
     margin: 0;
+    background-color: white;
    
 }
   .placeholder{
